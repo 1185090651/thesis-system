@@ -1,0 +1,72 @@
+{
+  "id": "1673783",
+  "name": "thesis",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "720964",
+      "name": "箭头",
+      "font_class": "xiazai6",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1288599",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1312491",
+      "name": "icon_user",
+      "font_class": "icon_user",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "7964497",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "723315",
+      "name": "用户组",
+      "font_class": "ai-users",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "4238446",
+      "name": "论文汇编",
+      "font_class": "lunwenhuibian",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5920498",
+      "name": "文档",
+      "font_class": "dashujukeshihuaico-",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "7671373",
+      "name": "统计分析",
+      "font_class": "fenxi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12733323",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}

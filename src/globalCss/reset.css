@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+    outline: none;
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* 给面包屑一个下边距 重置文字大小 */
+.el-breadcrumb {
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+/* 重置卡片阴影 */
+.el-card {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15)!important;
+}
+
+/* 给table上边距和重置字体 */
+.el-table {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+/* 给页码上边距 */
+.el-pagination {
+    margin-top: 15px;
+}
+
+/* 添加用户框的右边距下边距 */
+.el-dialog__body {
+    padding-right: 40px;
+    padding-bottom: 0;
+}
+
+/* 弹出框底部右边距 */
+.el-dialog__footer {
+    padding-right: 40px;
+}
+
+/* 给弹出框圆角 */
+.el-dialog {
+  border-radius: 10px;
+}
+
+/* 弹框确认取消交换 */
+.btn-cancel {
+    float: right;
+    margin-left: 10px;
+}
