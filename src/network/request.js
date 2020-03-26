@@ -5,7 +5,7 @@ import 'nprogress/nprogress.css'
 export function request(config){
     // 1.创建axios实例
     const instance = axios.create({
-        baseURL:'http://baa7d946.ngrok.io/api', //配置请求的根路径
+        baseURL:'http://localhost:5000/api', //配置请求的根路径
         timeout:10000, // 配置超时时间
     })
     // 配置拦截器 加入token令牌
